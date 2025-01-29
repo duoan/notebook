@@ -1,6 +1,6 @@
-### **Welcome to Victor Scientist Notebook** 🧪🔬
+### **Welcome to Victor Notebook** 🧪🔬
 
-Welcome to my personal hub for scientific exploration, experimentation, and innovation! As a **Senior Software Engineer and Tech Lead** with over **13 years of experience**, I’ve dedicated my career to designing and optimizing highly scalable, performant systems that process massive amounts of data. This repository is a curated collection of **demos, prototypes, and research projects** that showcase my work in **distributed systems, machine learning, big data technologies, and supply chain optimization**.
+Welcome to my personal hub for engineering and scientific exploration, experimentation, and innovation! As a **Senior Software Engineer and Tech Lead** with over **13 years of experience**, I’ve dedicated my career to designing and optimizing highly scalable, performant systems that process massive amounts of data. This repository is a curated collection of **demos, prototypes, and research projects** that showcase my work in **distributed systems, machine learning, big data technologies, and supply chain optimization**.
 
 Here, you’ll find a mix of code, data, and documentation that reflects my journey in solving complex problems, building cutting-edge tools, and driving technical innovation. Whether you're a fellow engineer, a data scientist, or simply curious, I hope this space inspires you and provides valuable insights.
 
