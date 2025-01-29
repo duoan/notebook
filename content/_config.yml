@@ -3,7 +3,7 @@
 
 title: Victor Scientist Notebook
 author: Victor
-logo: logo.webp
+logo: logo.png
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
