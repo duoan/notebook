@@ -3,7 +3,9 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+parts:
+  - caption: Deep Learning with JAX
+    chapters:
+      - file: dl_jax/preliminaries/index.md
+        sections:
+        - file: dl_jax/preliminaries/1.ndarray.ipynb
